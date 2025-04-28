@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@google-cloud/functions-framework": "^3.0.0",
+    "@google-cloud/recaptcha-enterprise": "^6.0.1"
+  }
+}
